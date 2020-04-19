@@ -8,7 +8,7 @@ public class Convert {
 	static int count = 0;
 	
 	static{
-		cllgname = "BITS,pilani";
+		cllgname = "BKBIET";
 	}
 	
 	public Convert(String str)
