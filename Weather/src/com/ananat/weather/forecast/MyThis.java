@@ -10,15 +10,15 @@ public class MyThis {
 		System.out.println(z);
 		System.out.println(this.x);
 		System.out.println(this);
+		
 	}
-	
 
 	public static void main(String[] args) {
 	MyThis m1 = new MyThis();
 	System.out.println(m1.x);
 	m1.show(m1,20);
 	System.out.println(m1);
-
+	
 	}
 
 }
