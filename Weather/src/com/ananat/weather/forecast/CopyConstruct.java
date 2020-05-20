@@ -22,7 +22,7 @@ public class CopyConstruct {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		CopyConstruct c1 = new CopyConstruct(10, 20);
+		CopyConstruct c1 = new CopyConstruct(10, 30);
 				c1.show();
 		CopyConstruct c2 = new CopyConstruct(c1);
 				c2.show();

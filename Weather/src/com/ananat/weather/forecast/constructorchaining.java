@@ -5,7 +5,7 @@ public class constructorchaining {
 	constructorchaining()
 	{
 		
-		System.out.println("default");
+		System.out.println("default constructor");
 		
 	}
 	constructorchaining(int x)

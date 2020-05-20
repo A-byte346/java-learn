@@ -7,7 +7,7 @@ public class AnonymusObject {
 	int getx()
 	{
 		System.out.println(x);
-		return 20;
+		return 30;
 	}
 	AnonymusObject ()
 	{
